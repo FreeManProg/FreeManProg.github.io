@@ -1,10 +1,10 @@
 {
-  "ads":"true",
+  "ads":"false",
   "update":[{
-    "version":"2.8.1600",
-    "title":"This app is now Open Source",
-    "description":"The App is available at github.com/gayankuruppu/android-vpn-client-ics-openvpn",
-    "size":"https://git.io/JeY69"
+    "version":"1.0",
+    "title":"Новая версия",
+    "description":"Обновленный интерфейс",
+    "size":"15MB"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
@@ -16,7 +16,7 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"Hamburg","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"b"}
+    {"id":0, "file":0, "city":"Frankfurt","country":"Germany","image":"germany","ip":"111.11.21.111","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"New york","country":"Unated States","image":"unitedstates","ip":"79.141.71.213","active":"true","signal":"e"}
   ]
 }

@@ -3,7 +3,8 @@
   "update":[{
     "version":"1.0",
     "title":"Новая версия",
-    "description":"Обновленный интерфейс"
+    "description":"Обновленный интерфейс",
+    "size":"15MB"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},

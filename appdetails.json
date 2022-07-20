@@ -17,7 +17,7 @@
 
   ],
   "free":[
-    {"id":0, "file":0, "city":"Frankfurt","country":"Germany","image":"germany","ip":"111.11.21.111","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"New york","country":"Unated States","image":"unitedstates","ip":"79.141.71.213","active":"true","signal":"e"}
+    {"id":0, "file":0, "city":"Republic of Korea","country":"Republic of Korea","image":"southkorea","ip":"220.71.160.189","active":"false","signal":"a"},
+    {"id":1, "file":1, "city":"Japan","country":"Japan","image":"japan","ip":"219.100.37.132","active":"true","signal":"a"}
   ]
 }

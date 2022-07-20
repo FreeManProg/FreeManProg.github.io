@@ -4,7 +4,6 @@
     "version":"1.0",
     "title":"Новая версия",
     "description":"Обновленный интерфейс",
-    "size":"https://git.io/JeY69"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
@@ -16,7 +15,7 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":1, "city":"Frankfurt","country":"Germany","image":"germany","ip":"111.11.21.111","active":"true","signal":"a"},
-    {"id":1, "file":2, "city":"New york","country":"Unated States","image":"unatedstates","ip":"79.141.71.213","active":"true","signal":"e"}
+    {"id":1, "file":1, "city":"Frankfurt","country":"Germany","image":"germany","ip":"111.11.21.111","active":"true","signal":"a"},
+    {"id":2, "file":2, "city":"New york","country":"Unated States","image":"unatedstates","ip":"79.141.71.213","active":"true","signal":"e"}
   ]
 }
